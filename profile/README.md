@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Discord Nexus</strong> (aka <code>Nexus-Scripture</code>) is a UK-based crew building dope Discord bots &amp; themes in JavaScript &amp; CSS.
+  <strong>Discord Nexus</strong> (aka <code>Nexus-Scripture</code>) is a UK-based team who build Discord bots &amp; themes in JavaScript &amp; CSS.
 </p>
 
 ---
